@@ -1,0 +1,15 @@
+{
+  "License": "MIT",
+  "Author":"Petersen",
+  "main":"app.js",
+
+  "scripts":{
+    "start":"electron ."
+  },
+
+  "dependencies":{
+    "express":"4.15.2",
+    "electron": "1.6.5",
+    "jquery":"3.2.1"
+  }
+}
