@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#inButton").click(function() {
-    
-  });
+    $('#inButton').click(function(){
+
+    })
 });
